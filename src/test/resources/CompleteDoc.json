@@ -1,0 +1,53 @@
+{
+  "_id": "UserData::123456",
+  "type": "UserData",
+  "customerId": "I1-123456",
+  "customerStatus": "Active",
+  "id": {
+    "profileId": "I1-123456",
+    "partyId": "I1-123456",
+    "personaId": "firstName",
+    "aliases": {
+      "email": {
+        "alias": "cup@cat.com",
+        "verified": true,
+        "registrationdate": "YYYY-MM-DDThh:mm:ss"
+      },
+      "salesforceAccountId": {
+        "alias": "2132321323231"
+      },
+      "salesforceContactId": {
+        "alias": "36473843"
+      },
+      "salesforceBillingAccountId": {
+        "alias": "12376448499201232932"
+      }
+    }
+  },
+  "trackingid": "<<tracking Id>>",
+  "country": "DE",
+  "services": {
+    "nowTv_de": {
+      "flags": {
+        "TCFlag": "Y",
+        "fullysignedup": "complete",
+        "globalaccess": true
+      }
+    }
+  },
+  "details": {
+    "firstname": "firstname",
+    "lastname": "lastname",
+    "birthDate": "1988-10-10",
+    "customerFlags": {
+      "marketingPermissionFlag": "Y/N",
+      "globalBookmarkingOptOut": true,
+      "personalisedRecsOptOut": false,
+      "kidsAutoplayOptOut": false,
+      "euPortabilityEligibilityFlag": "Y/N"
+    },
+    "mop": "Paypal"
+  },
+  "version": "1.0",
+  "lastUpdateDate": "YYYY-MM-DDThh:mm:ss"
+}

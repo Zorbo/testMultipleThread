@@ -1,0 +1,32 @@
+{ "customerStatus":"Active",
+  "country" : "DE",
+  "id" : {
+    "trackingid" : "<<tracking Id>>",
+    "profileid" : "I1-123456",
+    "partyid" : "I1-123456",
+    "aliases" : {
+      "email" : {
+        "alias" : "cup@cat.com",
+        "verified" : true,
+        "registrationdate" : "YYYY-MM-DDThh:mm:ss"
+      }
+    }
+  },
+  "services" : {
+    "nowtv-de" : {
+      "globalaccess" : true,
+      "termsandconditionsaccepted": "13-11-2019",
+      "fullysignedup" : "complete",
+      "servicename" : "nowtv-de"
+    }
+  },
+  "details" : {
+    "firstname" : "firstname",
+    "lastname" : "lastname",
+    "birthdate": "1988-10-10"
+  },
+  "globalbookmarkingoptout" : true,
+  "personalisedrecsoptout" : false,
+  "kidsautoplayoptout" : false,
+  "marketingPermissionFlag" : "Y/N"
+}
